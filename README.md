@@ -1,6 +1,6 @@
 # 📁 Videotron SMKN 1 Geger - Configuration Files
 
-Repositori ini berisi file-file yang digunakan untuk **pengaturan (setting)** videotron di lingkungan **SMPN 1 Geger**. Pengaturan ini meliputi konfigurasi chip dan dokumentasi visual terkait pemasangan serta layout tampilan.
+Repositori ini berisi file-file yang digunakan untuk **pengaturan (setting)** videotron di lingkungan **SMKN 1 Geger**. Pengaturan ini meliputi konfigurasi chip dan dokumentasi visual terkait pemasangan serta layout tampilan.
 
 ---
 
